@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2621
+
+upload a image file with vim form local to your picasaweb ablum using the Picasa Web Albums Data API and return the url of your upoad file which can be embed in html
